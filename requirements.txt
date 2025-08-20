@@ -4,3 +4,10 @@ python-dotenv
 openai
 anthropic
 IPython
+pypdf
+gradio
+PyPDF2
+dotenv
+openai-agents
+#openai-agent-sdk
+sendgrid

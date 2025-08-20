@@ -1,0 +1,58 @@
+Kausthab Dutta Phukan
+Hamilton, Ontario, Canada
++1 (437)-556-4666 | kausthab.dutta@outlook.com
+LinkedIn Profile | GitHub Profile
+Permanent Resident | Open to Hybrid Roles | Available Immediately________________________________________
+PROFESSIONAL SUMMARY
+Data Scientist with 3+ years of experience in machine learning, advanced statistical methods, and data-driven decision-making. Proven expertise in developing predictive models, automating data pipelines, and creating actionable insights for stakeholders. Skilled in Python, TensorFlow, SQL, and Power BI, with a strong ability to collaborate across departments and translate complex data into strategic recommendations. Passionate about solving business problems through innovative data solutions and staying current with emerging trends in AI and machine learning.________________________________________
+TECHNICAL SKILLS
+•	Machine Learning: Linear/Logistic Regression, Decision Trees, Random Forest, CNN, NLP, TensorFlow, scikit-learn
+•	Programming: Python, SQL (MySQL, PostgreSQL), R (Basic)
+•	Data Tools: Power BI, Looker, Mode, AWS EC2, GitHub
+•	Data Management: ETL Pipelines, Data Warehousing, A/B Testing, Statistical Analysis
+•	Soft Skills: Cross-functional Collaboration, Stakeholder Communication, Problem-Solving, Time Management
+________________________________________
+PROFESSIONAL EXPERIENCE
+Great Learning (McCombs School of Business, University of Texas, Austin)
+Data Science Mentor | Dec 2021 – Present
+•	Ranked top 10 North American mentor, designing and delivering data science curricula focused on machine learning, statistical analysis, and data storytelling.
+•	Led technical workshops on predictive modeling (e.g., regression, clustering) and coached 1000+ professionals to build data-driven solutions aligned with business goals.
+•	Collaborated with cross-functional teams to ensure content delivery met organizational objectives, fostering a culture of data-driven decision-making.
+
+
+
+Omdena (Volunteer)
+Lead Machine Learning Engineer & Toronto Chapter Lead | Mar 2023 – Present
+•	AI Chatbot for Canadian Immigrant Applicants: Spearheaded the development of an NLP-based chatbot using LLM frameworks, deploying the solution on AWS EC2. Acted as product manager, aligning technical outputs with user needs and business goals.
+•	Early Alzheimer’s Detection: Led a self-initiated project using CNN and transfer learning to identify early Alzheimer’s from brain scans, achieving 92% accuracy.
+•	Real Estate Recommender System: Developed a Python-based recommender system using collaborative filtering, improving user engagement by 15%.
+•	Skills Demonstrated: Cross-department collaboration, innovative problem-solving, and translating technical models into actionable business strategies.
+TheMathCompany
+Associate Consultant (Data Science) | Jun 2021 – Feb 2023
+•	Designed and executed A/B testing strategies analyzing 1M+ user interactions, delivering data-backed recommendations that increased conversion rates by 2% 
+•	Developed real-time Looker dashboards integrating 5+ data sources for 300+ stakeholders, reducing decision-making time by 40% 
+•	Engineered complex SQL queries and stored procedures to analyze 2M+ daily transactions, delivering ad-hoc business insights that improved user engagement by 45% 
+•	Engineered automated analytics workflows processing user behaviour data across multiple touchpoints, identifying key engagement patterns 
+•	Architected global Power BI solution integrating complex data sources (IQVIA, IPSOS, internal databases), creating role-specific dashboards for a global workforce across 5 geographic regions
+________________________________________
+KEY PROJECTS
+CanPolicy Insight | Omdena Toronto Chapter
+Technologies: Python, LangChain, Pinecone
+•	Engineered a similarity search algorithm to analyze policy document trends, improving alignment with regulatory requirements.
+•	Collaborated with cross-functional teams to ensure data quality and relevance for strategic decision-making.
+
+
+Early Alzheimer’s Detection (Self-Initiated)
+Technologies: CNN, Transfer Learning
+•	Developed a model to identify early Alzheimer’s from brain scans, achieving 92% accuracy. Validated results through statistical performance metrics.
+________________________________________
+EDUCATION & DEVELOPMENT
+•	Certificate in Practical Data Science & Deep Learning | Toronto Metropolitan University
+•	PG Program in Data Science & Business Analytics | Great Lakes Executive Learning & McCombs School of Business
+•	Bachelor of Engineering (Production) | Lukhdhirji Engineering College
+•	AI Conference Participant | Toronto Machine Learning Society (July 2023)
+________________________________________
+VOLUNTEER EXPERIENCE
+•	Habitat for Humanity, Hamilton | ReStore Volunteer - Dec 2024 - Present
+•	Mount Hamilton Youth Soccer Club | Coach – Oct 2024 - Present
+________________________________________
